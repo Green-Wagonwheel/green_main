@@ -7,7 +7,7 @@ public class Solution {
 		System.out.println("Red-Wagonwheel is here!");
 		System.out.println("Green-Wagonwheel is here!");
 		System.out.println("Can not push green branch to origin");
-
+// green branch
 	}
 
 }
